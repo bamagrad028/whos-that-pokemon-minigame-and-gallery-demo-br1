@@ -1,0 +1,9 @@
+GET https://pokeapi.co/api/v2/pokemon/articuno
+
+###
+
+GET https://pokeapi.co/api/v2/generation/4
+
+###
+
+GET https://pokeapi.co/api/v2/pokemon/1
